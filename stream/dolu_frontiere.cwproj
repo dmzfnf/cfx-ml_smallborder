@@ -1,0 +1,107 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>apa_ch2_01b_critical_0.ymap</Item>
+    <Item>apa_ch2_02b_critical_1.ymap</Item>
+    <Item>apa_ch2_02b_long_2.ymap</Item>
+    <Item>apa_ch2_02_strm_13.ymap</Item>
+    <Item>apa_ch2_03b_critical_2.ymap</Item>
+    <Item>apa_ch2_03d.ymap</Item>
+    <Item>apa_ch2_03d_critical_1.ymap</Item>
+    <Item>apa_ch2_03d_long_1.ymap</Item>
+    <Item>apa_ch2_03d_strm_0.ymap</Item>
+    <Item>apa_ch2_03_critical_2.ymap</Item>
+    <Item>apa_ch2_03_critical_6.ymap</Item>
+    <Item>apa_ch2_03_long_4.ymap</Item>
+    <Item>dolu_frontiere_checkpoint_01.ymap</Item>
+    <Item>dolu_frontiere_fence_door_placement.ymap</Item>
+    <Item>dolu_frontiere_placement.ymap</Item>
+    <Item>hei_ch1_05b_critical_0.ymap</Item>
+    <Item>hei_ch1_05b_long_3.ymap</Item>
+    <Item>hei_ch1_05b_long_4.ymap</Item>
+    <Item>hei_ch1_05b_long_6.ymap</Item>
+    <Item>hei_ch1_05b_strm_3.ymap</Item>
+    <Item>hei_ch1_05b_strm_4.ymap</Item>
+    <Item>hei_ch3_03_critical_0.ymap</Item>
+    <Item>hei_ch3_03_long_0.ymap</Item>
+    <Item>hei_ch3_03_long_3.ymap</Item>
+    <Item>hei_ch3_07_long_2.ymap</Item>
+    <Item>hei_ch3_08_critical_2.ymap</Item>
+    <Item>loly_frontiere_checkpoint_02.ymap</Item>
+    <Item>loly_frontiere_checkpoint_03.ymap</Item>
+    <Item>loly_frontiere_checkpoint_04.ymap</Item>
+    <Item>loly_frontiere_checkpoint_05.ymap</Item>
+    <Item>loly_frontiere_checkpoint_06.ymap</Item>
+    <Item>loly_frontiere_checkpoint_07.ymap</Item>
+    <Item>loly_frontiere_checkpoint_08.ymap</Item>
+    <Item>loly_frontiere_checkpoint_09.ymap</Item>
+    <Item>loly_frontiere_checkpoint_10.ymap</Item>
+    <Item>loly_frontiere_checkpoint_11.ymap</Item>
+    <Item>loly_frontiere_gate_01.ymap</Item>
+    <Item>loly_frontiere_gate_02.ymap</Item>
+    <Item>loly_frontiere_gate_03.ymap</Item>
+    <Item>map1.ymap</Item>
+    <Item>ch3_07_long_1.ymap</Item>
+    <Item>ch3_08_long_1.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>dolu_frontiere.ytyp</Item>
+    <Item>frontiere_opening.ytyp</Item>
+    <Item>prop_frontiere.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>dolu_frontiere_01_static.ybn</Item>
+    <Item>dolu_frontiere_02_static.ybn</Item>
+    <Item>dolu_frontiere_03_static.ybn</Item>
+    <Item>dolu_frontiere_04_static.ybn</Item>
+    <Item>dolu_frontiere_05_static.ybn</Item>
+    <Item>dolu_frontiere_06_static.ybn</Item>
+    <Item>dolu_frontiere_07_static.ybn</Item>
+    <Item>dolu_frontiere_08_static.ybn</Item>
+    <Item>dolu_frontiere_09_static.ybn</Item>
+    <Item>dolu_frontiere_10_static.ybn</Item>
+    <Item>dolu_frontiere_11_static.ybn</Item>
+    <Item>dolu_frontiere_12_static.ybn</Item>
+    <Item>dolu_frontiere_13_static.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>dolu_frontiere_01.ydr</Item>
+    <Item>dolu_frontiere_02.ydr</Item>
+    <Item>dolu_frontiere_03.ydr</Item>
+    <Item>dolu_frontiere_04.ydr</Item>
+    <Item>dolu_frontiere_05.ydr</Item>
+    <Item>dolu_frontiere_06.ydr</Item>
+    <Item>dolu_frontiere_07.ydr</Item>
+    <Item>dolu_frontiere_08.ydr</Item>
+    <Item>dolu_frontiere_09.ydr</Item>
+    <Item>dolu_frontiere_10.ydr</Item>
+    <Item>dolu_frontiere_11.ydr</Item>
+    <Item>dolu_frontiere_12.ydr</Item>
+    <Item>dolu_frontiere_13.ydr</Item>
+    <Item>dolu_frontiere_fence_door.ydr</Item>
+    <Item>prop_frontiere_ar1.ydr</Item>
+    <Item>prop_frontiere_ar2.ydr</Item>
+    <Item>prop_frontiere_ar3.ydr</Item>
+    <Item>prop_frontiere_ar4.ydr</Item>
+    <Item>prop_frontiere_ar5.ydr</Item>
+    <Item>prop_frontiere_ar6.ydr</Item>
+    <Item>prop_frontiere_ar7.ydr</Item>
+    <Item>prop_frontiere_mb1.ydr</Item>
+    <Item>prop_frontiere_mb2.ydr</Item>
+    <Item>prop_frontiere_mb3.ydr</Item>
+    <Item>prop_frontiere_mra.ydr</Item>
+    <Item>prop_frontiere_mrb.ydr</Item>
+    <Item>prop_frontiere_ta1.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames>
+    <Item>dolu_frontiere_txd.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>
