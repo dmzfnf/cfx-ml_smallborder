@@ -2,10 +2,6 @@
 
 A FiveM map that adds a functional border the North and South regions of the map.
 
-## ✨ Preview :
-
-https://www.youtube.com/watch?v=JCKEcKvraEM
-
 ## 🛠️ Installation :
 
 1. Download and extract the script into your resources folder
