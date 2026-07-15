@@ -1,4 +1,4 @@
-# 🛂 North-South Border System by DmZ
+# 🛂 North-South Border Maps by DmZ
 
 A FiveM map that adds a functional border the North and South regions of the map.
 
